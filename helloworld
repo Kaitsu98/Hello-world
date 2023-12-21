@@ -1,0 +1,5 @@
+git init hello_world_repo
+cd hello_world_repo
+echo 'print("Hello World!")' > hello_world.py
+python3.9 --version
+python3.9 hello_world.py
